@@ -9,9 +9,8 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
- *
+ * @file Stats.c
+ * @brief The code for the first assignment
  * <Add Extended Description Here>
  *
  * @author <Add FirsName LastName>
