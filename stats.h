@@ -24,8 +24,8 @@
 /* Add Your Declarations and Function Comments here */ 
 void print_statisitcs(unsigned char*,int);
 void print_array(unsigned char*,int);
-int find_median(unsigned char*,int);
-float find_mean(unsigned char*,int);
+int find_median(unsigned char*,int); //gets the median which is the middle element of the array
+float find_mean(unsigned char*,int); // gets the mean which is the nas of the elements os the array divided by its lenght
 int find_maximum(unsigned char*,int);
 int find_minimum(unsigned char*,int);
 void sort_array(unsigned char*,int);
