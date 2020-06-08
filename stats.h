@@ -9,19 +9,26 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.h
+ * @brief A group of statstical functions applied on arrays
  *
- * <Add Extended Description Here>
+ * These functions are made as an assignment fotr the embedded systems course
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Mohamed Khaled Elhadidy
+ * @date 8/6/2020
  *
  */
 #ifndef __STATS_H__
 #define __STATS_H__
 
 /* Add Your Declarations and Function Comments here */ 
+void print_statisitcs(int*,int);
+void print_array(int*,int);
+int find_median(int*,int);
+int find_mean(int*,int);
+int find_maximum(int*,int);
+int find_minimum(int*,int);
+void sort_array(int*,int);
 
 /**
  * @brief <Add Brief Description of Function Here>
